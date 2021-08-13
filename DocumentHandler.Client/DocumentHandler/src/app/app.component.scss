@@ -1,0 +1,72 @@
+form {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  width: 350px;
+  border: 3px solid #1e5588;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  border-radius: 0.5rem;
+  font-size: 25px;
+
+  .form-group {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+    input {
+      margin: 1px;
+      width: 50px;
+      float: right;
+      border: 1px solid;
+      font-size: 25px;
+    }
+  }
+
+  #isExpert {
+    width: 30px;
+    height: 30px;
+  }
+
+  input.ng-touched.ng-invalid {
+    border: solid red 2px;
+  }
+}
+
+.iFramed {
+  display: inline-block;
+
+  .left {
+    float: left;
+    margin-right: 5px;
+  }
+
+  .right {
+    float: right;
+    margin-left: 5px;
+  }
+}
+
+.wrapper {
+  min-width: 1300px;
+}
+
+iframe {
+  border: 3px solid #1e5588;
+  border-radius: 0.5rem;
+  width: 650px;
+  height: 600px;
+}
+
+.show-btn {
+  width: stretch;
+}
+
+.btn {
+  background-color: #1e5588;
+}
+
+.btn:hover {
+  background-color: #324a5e;
+}

@@ -1,0 +1,403 @@
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\appsettings.json
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\DocumentHandler.exe
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\DocumentHandler.deps.json
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\DocumentHandler.runtimeconfig.json
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\DocumentHandler.runtimeconfig.dev.json
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\DocumentHandler.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\ref\DocumentHandler.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\DocumentHandler.pdb
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.csprojAssemblyReference.cache
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.AssemblyInfoInputs.cache
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.AssemblyInfo.cs
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.csproj.CoreCompileInputs.cache
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\obj\Debug\net5.0\staticwebassets\DocumentHandler.StaticWebAssets.Manifest.cache
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\obj\Debug\net5.0\staticwebassets\DocumentHandler.StaticWebAssets.xml
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\obj\Debug\net5.0\scopedcss\bundle\DocumentHandler.styles.css
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.RazorTargetAssemblyInfo.cache
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.csproj.CopyComplete
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\obj\Debug\net5.0\ref\DocumentHandler.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.pdb
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.genruntimeconfig.cache
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Humanizer.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BelyaevFD\source\repos\IAP_Service\DocumentHandler\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\appsettings.json
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\DocumentHandler.exe
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\DocumentHandler.deps.json
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\DocumentHandler.runtimeconfig.json
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\DocumentHandler.runtimeconfig.dev.json
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\DocumentHandler.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\ref\DocumentHandler.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\DocumentHandler.pdb
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Humanizer.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.csprojAssemblyReference.cache
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.AssemblyInfoInputs.cache
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.AssemblyInfo.cs
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.csproj.CoreCompileInputs.cache
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\obj\Debug\net5.0\staticwebassets\DocumentHandler.StaticWebAssets.Manifest.cache
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\obj\Debug\net5.0\staticwebassets\DocumentHandler.StaticWebAssets.xml
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\obj\Debug\net5.0\scopedcss\bundle\DocumentHandler.styles.css
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.RazorTargetAssemblyInfo.cache
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.csproj.CopyComplete
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\obj\Debug\net5.0\ref\DocumentHandler.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.pdb
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.genruntimeconfig.cache
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Google.Apis.Drive.v3.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\appsettings.Development.json
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\appsettings.json
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\DocumentHandler.exe
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Resourses\client_secret.json
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\DocumentHandler.deps.json
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\DocumentHandler.runtimeconfig.json
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\DocumentHandler.runtimeconfig.dev.json
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\DocumentHandler.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\ref\DocumentHandler.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\DocumentHandler.pdb
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Google.Apis.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Google.Apis.Auth.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Google.Apis.Core.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Google.Apis.Drive.v3.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Humanizer.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.csprojAssemblyReference.cache
+D:\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.GeneratedMSBuildEditorConfig.editorconfig
+D:\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.AssemblyInfoInputs.cache
+D:\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.AssemblyInfo.cs
+D:\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.csproj.CoreCompileInputs.cache
+D:\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.MvcApplicationPartsAssemblyInfo.cs
+D:\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.MvcApplicationPartsAssemblyInfo.cache
+D:\DocumentHandler\DocumentHandler\obj\Debug\net5.0\staticwebassets\DocumentHandler.StaticWebAssets.Manifest.cache
+D:\DocumentHandler\DocumentHandler\obj\Debug\net5.0\staticwebassets\DocumentHandler.StaticWebAssets.xml
+D:\DocumentHandler\DocumentHandler\obj\Debug\net5.0\scopedcss\bundle\DocumentHandler.styles.css
+D:\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.RazorTargetAssemblyInfo.cache
+D:\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.csproj.CopyComplete
+D:\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.dll
+D:\DocumentHandler\DocumentHandler\obj\Debug\net5.0\ref\DocumentHandler.dll
+D:\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.pdb
+D:\DocumentHandler\DocumentHandler\obj\Debug\net5.0\DocumentHandler.genruntimeconfig.cache
+D:\DocumentHandler\DocumentHandler\bin\Debug\net5.0\.filenesting.json
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\.filenesting.json
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\appsettings.json
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\DocumentHandler.exe
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\DocumentHandler.deps.json
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\DocumentHandler.runtimeconfig.json
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\DocumentHandler.runtimeconfig.dev.json
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\DocumentHandler.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\ref\DocumentHandler.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\DocumentHandler.pdb
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Google.Apis.Drive.v3.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Humanizer.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\obj\Debug\net5.0\DocumentHandler.csprojAssemblyReference.cache
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\obj\Debug\net5.0\DocumentHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\obj\Debug\net5.0\DocumentHandler.AssemblyInfoInputs.cache
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\obj\Debug\net5.0\DocumentHandler.AssemblyInfo.cs
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\obj\Debug\net5.0\DocumentHandler.csproj.CoreCompileInputs.cache
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\obj\Debug\net5.0\DocumentHandler.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\obj\Debug\net5.0\DocumentHandler.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\obj\Debug\net5.0\staticwebassets\DocumentHandler.StaticWebAssets.Manifest.cache
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\obj\Debug\net5.0\staticwebassets\DocumentHandler.StaticWebAssets.xml
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\obj\Debug\net5.0\scopedcss\bundle\DocumentHandler.styles.css
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\obj\Debug\net5.0\DocumentHandler.RazorTargetAssemblyInfo.cache
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\obj\Debug\net5.0\DocumentHandler.csproj.CopyComplete
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\obj\Debug\net5.0\DocumentHandler.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\obj\Debug\net5.0\ref\DocumentHandler.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\obj\Debug\net5.0\DocumentHandler.pdb
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandlerV2\DocumentHandler\obj\Debug\net5.0\DocumentHandler.genruntimeconfig.cache
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\DocumentHandler\DocumentHandler\bin\Debug\net5.0\.filenesting.json
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\.filenesting.json
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\appsettings.json
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\DocumentHandler.exe
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\DocumentHandler.deps.json
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\DocumentHandler.runtimeconfig.json
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\DocumentHandler.runtimeconfig.dev.json
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\DocumentHandler.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\ref\DocumentHandler.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\DocumentHandler.pdb
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Google.Apis.Drive.v3.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Humanizer.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.csprojAssemblyReference.cache
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.AssemblyInfoInputs.cache
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.AssemblyInfo.cs
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.csproj.CoreCompileInputs.cache
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\staticwebassets\DocumentHandler.StaticWebAssets.Manifest.cache
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\staticwebassets\DocumentHandler.StaticWebAssets.xml
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\scopedcss\bundle\DocumentHandler.styles.css
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.RazorTargetAssemblyInfo.cache
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.csproj.CopyComplete
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\ref\DocumentHandler.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.pdb
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.genruntimeconfig.cache
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Google.Apis.Docs.v1.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\BondarVA\Documents\ТАП проекты\Маяк\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\.filenesting.json
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\appsettings.json
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\DocumentHandler.exe
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\DocumentHandler.deps.json
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\DocumentHandler.runtimeconfig.json
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\DocumentHandler.runtimeconfig.dev.json
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\DocumentHandler.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\ref\DocumentHandler.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\DocumentHandler.pdb
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Google.Apis.Docs.v1.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Google.Apis.Drive.v3.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Humanizer.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.csprojAssemblyReference.cache
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.AssemblyInfoInputs.cache
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.AssemblyInfo.cs
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.csproj.CoreCompileInputs.cache
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\staticwebassets\DocumentHandler.StaticWebAssets.Manifest.cache
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\staticwebassets\DocumentHandler.StaticWebAssets.xml
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\scopedcss\bundle\DocumentHandler.styles.css
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.RazorTargetAssemblyInfo.cache
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.csproj.CopyComplete
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\ref\DocumentHandler.dll
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.pdb
+C:\Users\KazakovPA\Downloads\DocumentHandler\Document Handler\DocumentHandler.Server\DocumentHandler\obj\Debug\net5.0\DocumentHandler.genruntimeconfig.cache

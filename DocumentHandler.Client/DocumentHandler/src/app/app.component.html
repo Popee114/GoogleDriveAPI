@@ -1,0 +1,45 @@
+<form [formGroup]="myForm" novalidate (ngSubmit)="onSubmit()">
+  <div class="form-group">
+    <label>Id первого документа:</label>
+    <input name="firstId" formControlName="firstDocId" />
+  </div>
+  <div class="form-group">
+    <label>Id второго документа:</label>
+    <input name="secondId" formControlName="secondDocId" />
+  </div>
+  <div class="form-group">
+    <label>Я эксперт:</label>
+    <input id="isExpert" type="checkbox" name="isExpert" formControlName="isUserExpert" />
+  </div>
+  <div class="form-group">
+    <button class="btn show-btn" type="submit" pButton label="Show docs" [disabled]="myForm.invalid"></button>
+  </div>
+</form>
+<p-dialog header="Просмотр документов"
+          [resizable]="false"
+          [(visible)]="displayModal"
+          [modal]="true"
+          [draggable]="false"
+          [closable]="false">
+
+  <div class="wrapper">
+    <div class="iFramed">
+      <div class="left">
+        <iframe [src]="firstDocLink"></iframe>
+      </div>
+    </div>
+
+    <div class="iFramed">
+      <div class="right">
+        <iframe [src]="secondDocLink"></iframe>
+      </div>
+    </div>
+  </div>
+
+  <ng-template pTemplate="footer">
+      <button class="btn" pButton icon="pi pi-check" *ngIf="isUserExpert" (click)="closeModal(true)" [disabled]="loading" label="Сохранить"></button>
+      <button class="btn" pButton *ngIf="isUserExpert" (click)="register()" [disabled]="loading" label="Зарегистрировать"></button>
+      <button class="btn" pButton *ngIf="isUserExpert" (click)="reject()" [disabled]="loading" label="Отказ"></button>
+      <button class="btn" pButton icon="pi pi-times" (click)="closeModal(false)" [disabled]="loading" label="Закрыть"></button>
+  </ng-template>
+</p-dialog>
